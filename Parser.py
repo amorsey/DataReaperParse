@@ -23,17 +23,12 @@ f = open('Data.txt', 'w')
 el = browser.find_element_by_class_name("tvScrollContainer")
 browser.execute_script("window.scrollTo(0, 160);")
 
-for j in range(22):
-    for i in range(22):
+for i in range(22):
+    for j in range(21):
         act = webdriver.ActionChains(browser)
-        act.move_to_element_with_offset(el,5+21*i,2+j*31)
+        act.move_to_element_with_offset(el,2+23*i,2+j*31)
         act.perform()
         copyData()
-
-
-
-sleep(4)
-
 
 
 
