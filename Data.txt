@@ -1,0 +1,5 @@
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Aggro-Token Druid
+Number of games:944
+SL winrate:0.5000
+Stderr Winrate:0.0230
