@@ -382,12 +382,6 @@ Number of games:400
 SL winrate:0.4283
 Stderr Winrate:0.0348
 
-Hero Deck:Jade Druid
-Opponent Deck:Taunt Warrior
-Number of games:160
-SL winrate:0.6875
-Stderr Winrate:0.0520
-
 Hero Deck:Midrange Hunter
 Opponent Deck:Aggro-Token Druid
 Number of games:797
@@ -520,12 +514,6 @@ Number of games:308
 SL winrate:0.5414
 Stderr Winrate:0.0398
 
-Hero Deck:Midrange Hunter
-Opponent Deck:Taunt Warrior
-Number of games:112
-SL winrate:0.5469
-Stderr Winrate:0.0663
-
 Hero Deck:Control Mage
 Opponent Deck:Aggro-Token Druid
 Number of games:611
@@ -633,6 +621,12 @@ Opponent Deck:Zoo Warlock
 Number of games:1,017
 SL winrate:0.4045
 Stderr Winrate:0.0216
+
+Hero Deck:Control Mage
+Opponent Deck:Pirate Warrior
+Number of games:136
+SL winrate:0.4711
+Stderr Winrate:0.0608
 
 Hero Deck:Control Mage
 Opponent Deck:Pirate Warrior
@@ -1474,12 +1468,6 @@ Number of games:440
 SL winrate:0.4688
 Stderr Winrate:0.0334
 
-Hero Deck:Razakus Priest
-Opponent Deck:Taunt Warrior
-Number of games:166
-SL winrate:0.5511
-Stderr Winrate:0.0549
-
 Hero Deck:Silence Priest
 Opponent Deck:Jade Druid
 Number of games:243
@@ -1720,12 +1708,6 @@ Number of games:651
 SL winrate:0.5362
 Stderr Winrate:0.0274
 
-Hero Deck:Tempo Rogue
-Opponent Deck:Taunt Warrior
-Number of games:270
-SL winrate:0.5199
-Stderr Winrate:0.0430
-
 Hero Deck:Token Shaman
 Opponent Deck:Aggro-Token Druid
 Number of games:761
@@ -1858,12 +1840,6 @@ Number of games:268
 SL winrate:0.5463
 Stderr Winrate:0.0418
 
-Hero Deck:Token Shaman
-Opponent Deck:Taunt Warrior
-Number of games:113
-SL winrate:0.4979
-Stderr Winrate:0.0668
-
 Hero Deck:Control Warlock
 Opponent Deck:Aggro-Token Druid
 Number of games:541
@@ -1989,12 +1965,6 @@ Opponent Deck:Pirate Warrior
 Number of games:194
 SL winrate:0.3965
 Stderr Winrate:0.0498
-
-Hero Deck:Control Warlock
-Opponent Deck:Taunt Warrior
-Number of games:102
-SL winrate:0.4915
-Stderr Winrate:0.0690
 
 Hero Deck:Zoo Warlock
 Opponent Deck:Aggro-Token Druid
@@ -2127,12 +2097,6 @@ Opponent Deck:Pirate Warrior
 Number of games:481
 SL winrate:0.5510
 Stderr Winrate:0.0320
-
-Hero Deck:Zoo Warlock
-Opponent Deck:Taunt Warrior
-Number of games:178
-SL winrate:0.5834
-Stderr Winrate:0.0524
 
 Hero Deck:Control Warrior
 Opponent Deck:Aggro-Token Druid
@@ -2325,10 +2289,4 @@ Opponent Deck:Zoo Warlock
 Number of games:178
 SL winrate:0.4166
 Stderr Winrate:0.0524
-
-Hero Deck:Taunt Warrior
-Opponent Deck:Taunt Warrior
-Number of games:8
-SL winrate:0.5000
-Stderr Winrate:0.2887
 
