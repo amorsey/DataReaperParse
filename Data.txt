@@ -3,3 +3,2332 @@ Opponent Deck:Aggro-Token Druid
 Number of games:944
 SL winrate:0.5000
 Stderr Winrate:0.0230
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Big Druid
+Number of games:645
+SL winrate:0.6084
+Stderr Winrate:0.0270
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Jade Druid
+Number of games:1,457
+SL winrate:0.6068
+Stderr Winrate:0.0181
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Midrange Hunter
+Number of games:797
+SL winrate:0.5251
+Stderr Winrate:0.0250
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Control Mage
+Number of games:611
+SL winrate:0.5007
+Stderr Winrate:0.0285
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Control Mage
+Number of games:611
+SL winrate:0.5007
+Stderr Winrate:0.0285
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Exodia Mage
+Number of games:216
+SL winrate:0.6526
+Stderr Winrate:0.0460
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Secret Mage
+Number of games:460
+SL winrate:0.5057
+Stderr Winrate:0.0326
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Control Paladin
+Number of games:118
+SL winrate:0.5523
+Stderr Winrate:0.0643
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Handbuff Paladin
+Number of games:211
+SL winrate:0.5021
+Stderr Winrate:0.0489
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Murloc Paladin
+Number of games:748
+SL winrate:0.4525
+Stderr Winrate:0.0258
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Big Priest
+Number of games:555
+SL winrate:0.4304
+Stderr Winrate:0.0298
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Dragon Priest
+Number of games:288
+SL winrate:0.5648
+Stderr Winrate:0.0408
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Razakus Priest
+Number of games:1,575
+SL winrate:0.4694
+Stderr Winrate:0.0177
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Miracle Rogue
+Number of games:235
+SL winrate:0.5864
+Stderr Winrate:0.0453
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Tempo Rogue
+Number of games:2,658
+SL winrate:0.5081
+Stderr Winrate:0.0137
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Token Shaman
+Number of games:761
+SL winrate:0.4947
+Stderr Winrate:0.0255
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Control Warlock
+Number of games:541
+SL winrate:0.4281
+Stderr Winrate:0.0301
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Zoo Warlock
+Number of games:1,615
+SL winrate:0.5148
+Stderr Winrate:0.0176
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Control Warrior
+Number of games:105
+SL winrate:0.5028
+Stderr Winrate:0.0688
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Pirate Warrior
+Number of games:231
+SL winrate:0.6526
+Stderr Winrate:0.0442
+
+Hero Deck:Aggro-Token Druid
+Opponent Deck:Pirate Warrior
+Number of games:231
+SL winrate:0.6526
+Stderr Winrate:0.0442
+
+Hero Deck:Big Druid
+Opponent Deck:Aggro-Token Druid
+Number of games:645
+SL winrate:0.3916
+Stderr Winrate:0.0270
+
+Hero Deck:Big Druid
+Opponent Deck:Big Druid
+Number of games:574
+SL winrate:0.5000
+Stderr Winrate:0.0287
+
+Hero Deck:Big Druid
+Opponent Deck:Jade Druid
+Number of games:1,137
+SL winrate:0.5999
+Stderr Winrate:0.0205
+
+Hero Deck:Big Druid
+Opponent Deck:Midrange Hunter
+Number of games:591
+SL winrate:0.5386
+Stderr Winrate:0.0291
+
+Hero Deck:Big Druid
+Opponent Deck:Control Mage
+Number of games:379
+SL winrate:0.5785
+Stderr Winrate:0.0360
+
+Hero Deck:Big Druid
+Opponent Deck:Control Mage
+Number of games:379
+SL winrate:0.5785
+Stderr Winrate:0.0360
+
+Hero Deck:Big Druid
+Opponent Deck:Exodia Mage
+Number of games:246
+SL winrate:0.4622
+Stderr Winrate:0.0452
+
+Hero Deck:Big Druid
+Opponent Deck:Secret Mage
+Number of games:305
+SL winrate:0.3932
+Stderr Winrate:0.0395
+
+Hero Deck:Big Druid
+Opponent Deck:Handbuff Paladin
+Number of games:168
+SL winrate:0.5366
+Stderr Winrate:0.0543
+
+Hero Deck:Big Druid
+Opponent Deck:Murloc Paladin
+Number of games:430
+SL winrate:0.4077
+Stderr Winrate:0.0335
+
+Hero Deck:Big Druid
+Opponent Deck:Big Priest
+Number of games:440
+SL winrate:0.5223
+Stderr Winrate:0.0335
+
+Hero Deck:Big Druid
+Opponent Deck:Dragon Priest
+Number of games:223
+SL winrate:0.4675
+Stderr Winrate:0.0471
+
+Hero Deck:Big Druid
+Opponent Deck:Razakus Priest
+Number of games:1,197
+SL winrate:0.6330
+Stderr Winrate:0.0196
+
+Hero Deck:Big Druid
+Opponent Deck:Miracle Rogue
+Number of games:172
+SL winrate:0.5279
+Stderr Winrate:0.0540
+
+Hero Deck:Big Druid
+Opponent Deck:Tempo Rogue
+Number of games:1,883
+SL winrate:0.4831
+Stderr Winrate:0.0162
+
+Hero Deck:Big Druid
+Opponent Deck:Token Shaman
+Number of games:579
+SL winrate:0.5668
+Stderr Winrate:0.0289
+
+Hero Deck:Big Druid
+Opponent Deck:Control Warlock
+Number of games:473
+SL winrate:0.7153
+Stderr Winrate:0.0294
+
+Hero Deck:Big Druid
+Opponent Deck:Zoo Warlock
+Number of games:1,211
+SL winrate:0.5287
+Stderr Winrate:0.0202
+
+Hero Deck:Big Druid
+Opponent Deck:Pirate Warrior
+Number of games:158
+SL winrate:0.4581
+Stderr Winrate:0.0563
+
+Hero Deck:Big Druid
+Opponent Deck:Pirate Warrior
+Number of games:158
+SL winrate:0.4581
+Stderr Winrate:0.0563
+
+Hero Deck:Jade Druid
+Opponent Deck:Aggro-Token Druid
+Number of games:1,457
+SL winrate:0.3932
+Stderr Winrate:0.0181
+
+Hero Deck:Jade Druid
+Opponent Deck:Big Druid
+Number of games:1,137
+SL winrate:0.4001
+Stderr Winrate:0.0205
+
+Hero Deck:Jade Druid
+Opponent Deck:Jade Druid
+Number of games:2,340
+SL winrate:0.5000
+Stderr Winrate:0.0144
+
+Hero Deck:Jade Druid
+Opponent Deck:Midrange Hunter
+Number of games:1,362
+SL winrate:0.4833
+Stderr Winrate:0.0191
+
+Hero Deck:Jade Druid
+Opponent Deck:Control Mage
+Number of games:758
+SL winrate:0.5913
+Stderr Winrate:0.0252
+
+Hero Deck:Jade Druid
+Opponent Deck:Control Mage
+Number of games:758
+SL winrate:0.5913
+Stderr Winrate:0.0252
+
+Hero Deck:Jade Druid
+Opponent Deck:Exodia Mage
+Number of games:434
+SL winrate:0.4246
+Stderr Winrate:0.0329
+
+Hero Deck:Jade Druid
+Opponent Deck:Secret Mage
+Number of games:927
+SL winrate:0.4102
+Stderr Winrate:0.0227
+
+Hero Deck:Jade Druid
+Opponent Deck:Control Paladin
+Number of games:214
+SL winrate:0.5622
+Stderr Winrate:0.0482
+
+Hero Deck:Jade Druid
+Opponent Deck:Handbuff Paladin
+Number of games:343
+SL winrate:0.5511
+Stderr Winrate:0.0378
+
+Hero Deck:Jade Druid
+Opponent Deck:Murloc Paladin
+Number of games:1,189
+SL winrate:0.3697
+Stderr Winrate:0.0198
+
+Hero Deck:Jade Druid
+Opponent Deck:Big Priest
+Number of games:860
+SL winrate:0.5401
+Stderr Winrate:0.0240
+
+Hero Deck:Jade Druid
+Opponent Deck:Dragon Priest
+Number of games:482
+SL winrate:0.5004
+Stderr Winrate:0.0321
+
+Hero Deck:Jade Druid
+Opponent Deck:Razakus Priest
+Number of games:2,383
+SL winrate:0.5641
+Stderr Winrate:0.0143
+
+Hero Deck:Jade Druid
+Opponent Deck:Miracle Rogue
+Number of games:308
+SL winrate:0.5587
+Stderr Winrate:0.0394
+
+Hero Deck:Jade Druid
+Opponent Deck:Tempo Rogue
+Number of games:4,493
+SL winrate:0.4668
+Stderr Winrate:0.0105
+
+Hero Deck:Jade Druid
+Opponent Deck:Token Shaman
+Number of games:1,451
+SL winrate:0.5097
+Stderr Winrate:0.0185
+
+Hero Deck:Jade Druid
+Opponent Deck:Control Warlock
+Number of games:1,015
+SL winrate:0.6148
+Stderr Winrate:0.0214
+
+Hero Deck:Jade Druid
+Opponent Deck:Zoo Warlock
+Number of games:2,770
+SL winrate:0.4697
+Stderr Winrate:0.0134
+
+Hero Deck:Jade Druid
+Opponent Deck:Control Warrior
+Number of games:190
+SL winrate:0.6683
+Stderr Winrate:0.0480
+
+Hero Deck:Jade Druid
+Opponent Deck:Pirate Warrior
+Number of games:400
+SL winrate:0.4283
+Stderr Winrate:0.0348
+
+Hero Deck:Jade Druid
+Opponent Deck:Pirate Warrior
+Number of games:400
+SL winrate:0.4283
+Stderr Winrate:0.0348
+
+Hero Deck:Jade Druid
+Opponent Deck:Taunt Warrior
+Number of games:160
+SL winrate:0.6875
+Stderr Winrate:0.0520
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Aggro-Token Druid
+Number of games:797
+SL winrate:0.4749
+Stderr Winrate:0.0250
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Big Druid
+Number of games:591
+SL winrate:0.4614
+Stderr Winrate:0.0291
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Jade Druid
+Number of games:1,362
+SL winrate:0.5167
+Stderr Winrate:0.0191
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Midrange Hunter
+Number of games:1,010
+SL winrate:0.5000
+Stderr Winrate:0.0222
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Control Mage
+Number of games:563
+SL winrate:0.5625
+Stderr Winrate:0.0296
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Control Mage
+Number of games:563
+SL winrate:0.5625
+Stderr Winrate:0.0296
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Exodia Mage
+Number of games:266
+SL winrate:0.7914
+Stderr Winrate:0.0351
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Secret Mage
+Number of games:646
+SL winrate:0.5643
+Stderr Winrate:0.0272
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Control Paladin
+Number of games:192
+SL winrate:0.4961
+Stderr Winrate:0.0511
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Handbuff Paladin
+Number of games:297
+SL winrate:0.4158
+Stderr Winrate:0.0400
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Murloc Paladin
+Number of games:769
+SL winrate:0.4064
+Stderr Winrate:0.0251
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Big Priest
+Number of games:524
+SL winrate:0.6019
+Stderr Winrate:0.0302
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Dragon Priest
+Number of games:369
+SL winrate:0.5314
+Stderr Winrate:0.0364
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Razakus Priest
+Number of games:1,510
+SL winrate:0.5174
+Stderr Winrate:0.0181
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Miracle Rogue
+Number of games:224
+SL winrate:0.5093
+Stderr Winrate:0.0475
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Tempo Rogue
+Number of games:2,494
+SL winrate:0.4069
+Stderr Winrate:0.0138
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Token Shaman
+Number of games:1,032
+SL winrate:0.3987
+Stderr Winrate:0.0214
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Control Warlock
+Number of games:809
+SL winrate:0.5725
+Stderr Winrate:0.0245
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Zoo Warlock
+Number of games:1,709
+SL winrate:0.4236
+Stderr Winrate:0.0168
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Control Warrior
+Number of games:172
+SL winrate:0.6844
+Stderr Winrate:0.0503
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Pirate Warrior
+Number of games:308
+SL winrate:0.5414
+Stderr Winrate:0.0398
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Pirate Warrior
+Number of games:308
+SL winrate:0.5414
+Stderr Winrate:0.0398
+
+Hero Deck:Midrange Hunter
+Opponent Deck:Taunt Warrior
+Number of games:112
+SL winrate:0.5469
+Stderr Winrate:0.0663
+
+Hero Deck:Control Mage
+Opponent Deck:Aggro-Token Druid
+Number of games:611
+SL winrate:0.4993
+Stderr Winrate:0.0285
+
+Hero Deck:Control Mage
+Opponent Deck:Big Druid
+Number of games:379
+SL winrate:0.4215
+Stderr Winrate:0.0360
+
+Hero Deck:Control Mage
+Opponent Deck:Jade Druid
+Number of games:758
+SL winrate:0.4087
+Stderr Winrate:0.0252
+
+Hero Deck:Control Mage
+Opponent Deck:Midrange Hunter
+Number of games:563
+SL winrate:0.4375
+Stderr Winrate:0.0296
+
+Hero Deck:Control Mage
+Opponent Deck:Control Mage
+Number of games:316
+SL winrate:0.5000
+Stderr Winrate:0.0396
+
+Hero Deck:Control Mage
+Opponent Deck:Control Mage
+Number of games:316
+SL winrate:0.5000
+Stderr Winrate:0.0396
+
+Hero Deck:Control Mage
+Opponent Deck:Exodia Mage
+Number of games:143
+SL winrate:0.6430
+Stderr Winrate:0.0567
+
+Hero Deck:Control Mage
+Opponent Deck:Secret Mage
+Number of games:329
+SL winrate:0.3686
+Stderr Winrate:0.0372
+
+Hero Deck:Control Mage
+Opponent Deck:Handbuff Paladin
+Number of games:144
+SL winrate:0.4464
+Stderr Winrate:0.0575
+
+Hero Deck:Control Mage
+Opponent Deck:Murloc Paladin
+Number of games:436
+SL winrate:0.4938
+Stderr Winrate:0.0335
+
+Hero Deck:Control Mage
+Opponent Deck:Big Priest
+Number of games:258
+SL winrate:0.4968
+Stderr Winrate:0.0441
+
+Hero Deck:Control Mage
+Opponent Deck:Dragon Priest
+Number of games:178
+SL winrate:0.5023
+Stderr Winrate:0.0532
+
+Hero Deck:Control Mage
+Opponent Deck:Razakus Priest
+Number of games:844
+SL winrate:0.4758
+Stderr Winrate:0.0241
+
+Hero Deck:Control Mage
+Opponent Deck:Miracle Rogue
+Number of games:103
+SL winrate:0.6580
+Stderr Winrate:0.0664
+
+Hero Deck:Control Mage
+Opponent Deck:Tempo Rogue
+Number of games:1,641
+SL winrate:0.4781
+Stderr Winrate:0.0173
+
+Hero Deck:Control Mage
+Opponent Deck:Token Shaman
+Number of games:506
+SL winrate:0.5209
+Stderr Winrate:0.0313
+
+Hero Deck:Control Mage
+Opponent Deck:Control Warlock
+Number of games:363
+SL winrate:0.5693
+Stderr Winrate:0.0362
+
+Hero Deck:Control Mage
+Opponent Deck:Zoo Warlock
+Number of games:1,017
+SL winrate:0.4045
+Stderr Winrate:0.0216
+
+Hero Deck:Control Mage
+Opponent Deck:Pirate Warrior
+Number of games:136
+SL winrate:0.4711
+Stderr Winrate:0.0608
+
+Hero Deck:Exodia Mage
+Opponent Deck:Aggro-Token Druid
+Number of games:216
+SL winrate:0.3474
+Stderr Winrate:0.0460
+
+Hero Deck:Exodia Mage
+Opponent Deck:Big Druid
+Number of games:246
+SL winrate:0.5378
+Stderr Winrate:0.0452
+
+Hero Deck:Exodia Mage
+Opponent Deck:Jade Druid
+Number of games:434
+SL winrate:0.5754
+Stderr Winrate:0.0329
+
+Hero Deck:Exodia Mage
+Opponent Deck:Midrange Hunter
+Number of games:266
+SL winrate:0.2086
+Stderr Winrate:0.0351
+
+Hero Deck:Exodia Mage
+Opponent Deck:Control Mage
+Number of games:143
+SL winrate:0.3570
+Stderr Winrate:0.0567
+
+Hero Deck:Exodia Mage
+Opponent Deck:Control Mage
+Number of games:143
+SL winrate:0.3570
+Stderr Winrate:0.0567
+
+Hero Deck:Exodia Mage
+Opponent Deck:Exodia Mage
+Number of games:104
+SL winrate:0.5000
+Stderr Winrate:0.0687
+
+Hero Deck:Exodia Mage
+Opponent Deck:Secret Mage
+Number of games:169
+SL winrate:0.2216
+Stderr Winrate:0.0449
+
+Hero Deck:Exodia Mage
+Opponent Deck:Murloc Paladin
+Number of games:218
+SL winrate:0.3411
+Stderr Winrate:0.0457
+
+Hero Deck:Exodia Mage
+Opponent Deck:Big Priest
+Number of games:147
+SL winrate:0.7153
+Stderr Winrate:0.0504
+
+Hero Deck:Exodia Mage
+Opponent Deck:Razakus Priest
+Number of games:512
+SL winrate:0.5639
+Stderr Winrate:0.0309
+
+Hero Deck:Exodia Mage
+Opponent Deck:Tempo Rogue
+Number of games:781
+SL winrate:0.3116
+Stderr Winrate:0.0235
+
+Hero Deck:Exodia Mage
+Opponent Deck:Token Shaman
+Number of games:268
+SL winrate:0.4549
+Stderr Winrate:0.0428
+
+Hero Deck:Exodia Mage
+Opponent Deck:Control Warlock
+Number of games:196
+SL winrate:0.5806
+Stderr Winrate:0.0499
+
+Hero Deck:Exodia Mage
+Opponent Deck:Zoo Warlock
+Number of games:478
+SL winrate:0.3868
+Stderr Winrate:0.0316
+
+Hero Deck:Secret Mage
+Opponent Deck:Aggro-Token Druid
+Number of games:460
+SL winrate:0.4943
+Stderr Winrate:0.0326
+
+Hero Deck:Secret Mage
+Opponent Deck:Big Druid
+Number of games:305
+SL winrate:0.6068
+Stderr Winrate:0.0395
+
+Hero Deck:Secret Mage
+Opponent Deck:Jade Druid
+Number of games:927
+SL winrate:0.5898
+Stderr Winrate:0.0227
+
+Hero Deck:Secret Mage
+Opponent Deck:Midrange Hunter
+Number of games:646
+SL winrate:0.4357
+Stderr Winrate:0.0272
+
+Hero Deck:Secret Mage
+Opponent Deck:Control Mage
+Number of games:329
+SL winrate:0.6314
+Stderr Winrate:0.0372
+
+Hero Deck:Secret Mage
+Opponent Deck:Control Mage
+Number of games:329
+SL winrate:0.6314
+Stderr Winrate:0.0372
+
+Hero Deck:Secret Mage
+Opponent Deck:Exodia Mage
+Number of games:169
+SL winrate:0.7784
+Stderr Winrate:0.0449
+
+Hero Deck:Secret Mage
+Opponent Deck:Secret Mage
+Number of games:370
+SL winrate:0.5000
+Stderr Winrate:0.0368
+
+Hero Deck:Secret Mage
+Opponent Deck:Control Paladin
+Number of games:109
+SL winrate:0.5486
+Stderr Winrate:0.0672
+
+Hero Deck:Secret Mage
+Opponent Deck:Handbuff Paladin
+Number of games:183
+SL winrate:0.4395
+Stderr Winrate:0.0508
+
+Hero Deck:Secret Mage
+Opponent Deck:Murloc Paladin
+Number of games:385
+SL winrate:0.3692
+Stderr Winrate:0.0348
+
+Hero Deck:Secret Mage
+Opponent Deck:Big Priest
+Number of games:304
+SL winrate:0.6101
+Stderr Winrate:0.0394
+
+Hero Deck:Secret Mage
+Opponent Deck:Dragon Priest
+Number of games:212
+SL winrate:0.5988
+Stderr Winrate:0.0478
+
+Hero Deck:Secret Mage
+Opponent Deck:Razakus Priest
+Number of games:961
+SL winrate:0.5136
+Stderr Winrate:0.0226
+
+Hero Deck:Secret Mage
+Opponent Deck:Miracle Rogue
+Number of games:150
+SL winrate:0.5904
+Stderr Winrate:0.0568
+
+Hero Deck:Secret Mage
+Opponent Deck:Tempo Rogue
+Number of games:1,436
+SL winrate:0.4447
+Stderr Winrate:0.0184
+
+Hero Deck:Secret Mage
+Opponent Deck:Token Shaman
+Number of games:625
+SL winrate:0.4298
+Stderr Winrate:0.0275
+
+Hero Deck:Secret Mage
+Opponent Deck:Control Warlock
+Number of games:428
+SL winrate:0.6510
+Stderr Winrate:0.0323
+
+Hero Deck:Secret Mage
+Opponent Deck:Zoo Warlock
+Number of games:870
+SL winrate:0.3733
+Stderr Winrate:0.0231
+
+Hero Deck:Secret Mage
+Opponent Deck:Control Warrior
+Number of games:105
+SL winrate:0.8201
+Stderr Winrate:0.0518
+
+Hero Deck:Secret Mage
+Opponent Deck:Pirate Warrior
+Number of games:180
+SL winrate:0.4793
+Stderr Winrate:0.0519
+
+Hero Deck:Secret Mage
+Opponent Deck:Pirate Warrior
+Number of games:180
+SL winrate:0.4793
+Stderr Winrate:0.0519
+
+Hero Deck:Control Paladin
+Opponent Deck:Aggro-Token Druid
+Number of games:118
+SL winrate:0.4477
+Stderr Winrate:0.0643
+
+Hero Deck:Control Paladin
+Opponent Deck:Jade Druid
+Number of games:214
+SL winrate:0.4378
+Stderr Winrate:0.0482
+
+Hero Deck:Control Paladin
+Opponent Deck:Midrange Hunter
+Number of games:192
+SL winrate:0.5039
+Stderr Winrate:0.0511
+
+Hero Deck:Control Paladin
+Opponent Deck:Secret Mage
+Number of games:109
+SL winrate:0.4514
+Stderr Winrate:0.0672
+
+Hero Deck:Control Paladin
+Opponent Deck:Control Paladin
+Number of games:36
+SL winrate:0.5000
+Stderr Winrate:0.1205
+
+Hero Deck:Control Paladin
+Opponent Deck:Razakus Priest
+Number of games:227
+SL winrate:0.3948
+Stderr Winrate:0.0459
+
+Hero Deck:Control Paladin
+Opponent Deck:Tempo Rogue
+Number of games:433
+SL winrate:0.3557
+Stderr Winrate:0.0323
+
+Hero Deck:Control Paladin
+Opponent Deck:Token Shaman
+Number of games:181
+SL winrate:0.4284
+Stderr Winrate:0.0513
+
+Hero Deck:Control Paladin
+Opponent Deck:Control Warlock
+Number of games:128
+SL winrate:0.5342
+Stderr Winrate:0.0628
+
+Hero Deck:Control Paladin
+Opponent Deck:Zoo Warlock
+Number of games:252
+SL winrate:0.4620
+Stderr Winrate:0.0443
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Aggro-Token Druid
+Number of games:211
+SL winrate:0.4979
+Stderr Winrate:0.0489
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Big Druid
+Number of games:168
+SL winrate:0.4634
+Stderr Winrate:0.0543
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Jade Druid
+Number of games:343
+SL winrate:0.4489
+Stderr Winrate:0.0378
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Midrange Hunter
+Number of games:297
+SL winrate:0.5842
+Stderr Winrate:0.0400
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Control Mage
+Number of games:144
+SL winrate:0.5536
+Stderr Winrate:0.0575
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Control Mage
+Number of games:144
+SL winrate:0.5536
+Stderr Winrate:0.0575
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Secret Mage
+Number of games:183
+SL winrate:0.5605
+Stderr Winrate:0.0508
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Handbuff Paladin
+Number of games:108
+SL winrate:0.5000
+Stderr Winrate:0.0683
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Murloc Paladin
+Number of games:172
+SL winrate:0.4712
+Stderr Winrate:0.0540
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Big Priest
+Number of games:134
+SL winrate:0.4757
+Stderr Winrate:0.0615
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Razakus Priest
+Number of games:377
+SL winrate:0.4498
+Stderr Winrate:0.0362
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Tempo Rogue
+Number of games:609
+SL winrate:0.4181
+Stderr Winrate:0.0282
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Token Shaman
+Number of games:273
+SL winrate:0.4631
+Stderr Winrate:0.0422
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Control Warlock
+Number of games:202
+SL winrate:0.5675
+Stderr Winrate:0.0487
+
+Hero Deck:Handbuff Paladin
+Opponent Deck:Zoo Warlock
+Number of games:414
+SL winrate:0.4123
+Stderr Winrate:0.0340
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Aggro-Token Druid
+Number of games:748
+SL winrate:0.5475
+Stderr Winrate:0.0258
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Big Druid
+Number of games:430
+SL winrate:0.5923
+Stderr Winrate:0.0335
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Jade Druid
+Number of games:1,189
+SL winrate:0.6303
+Stderr Winrate:0.0198
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Midrange Hunter
+Number of games:769
+SL winrate:0.5936
+Stderr Winrate:0.0251
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Control Mage
+Number of games:436
+SL winrate:0.5062
+Stderr Winrate:0.0335
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Control Mage
+Number of games:436
+SL winrate:0.5062
+Stderr Winrate:0.0335
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Exodia Mage
+Number of games:218
+SL winrate:0.6589
+Stderr Winrate:0.0457
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Secret Mage
+Number of games:385
+SL winrate:0.6308
+Stderr Winrate:0.0348
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Handbuff Paladin
+Number of games:172
+SL winrate:0.5288
+Stderr Winrate:0.0540
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Murloc Paladin
+Number of games:464
+SL winrate:0.5000
+Stderr Winrate:0.0329
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Big Priest
+Number of games:432
+SL winrate:0.5115
+Stderr Winrate:0.0340
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Dragon Priest
+Number of games:224
+SL winrate:0.6742
+Stderr Winrate:0.0440
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Razakus Priest
+Number of games:1,313
+SL winrate:0.5500
+Stderr Winrate:0.0194
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Miracle Rogue
+Number of games:158
+SL winrate:0.5616
+Stderr Winrate:0.0560
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Tempo Rogue
+Number of games:2,012
+SL winrate:0.4260
+Stderr Winrate:0.0155
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Token Shaman
+Number of games:799
+SL winrate:0.4665
+Stderr Winrate:0.0249
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Control Warlock
+Number of games:526
+SL winrate:0.4391
+Stderr Winrate:0.0302
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Zoo Warlock
+Number of games:1,346
+SL winrate:0.4561
+Stderr Winrate:0.0190
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Pirate Warrior
+Number of games:181
+SL winrate:0.5455
+Stderr Winrate:0.0527
+
+Hero Deck:Murloc Paladin
+Opponent Deck:Pirate Warrior
+Number of games:181
+SL winrate:0.5455
+Stderr Winrate:0.0527
+
+Hero Deck:Big Priest
+Opponent Deck:Aggro-Token Druid
+Number of games:555
+SL winrate:0.5696
+Stderr Winrate:0.0298
+
+Hero Deck:Big Priest
+Opponent Deck:Big Druid
+Number of games:440
+SL winrate:0.4777
+Stderr Winrate:0.0335
+
+Hero Deck:Big Priest
+Opponent Deck:Jade Druid
+Number of games:860
+SL winrate:0.4599
+Stderr Winrate:0.0240
+
+Hero Deck:Big Priest
+Opponent Deck:Midrange Hunter
+Number of games:524
+SL winrate:0.3981
+Stderr Winrate:0.0302
+
+Hero Deck:Big Priest
+Opponent Deck:Control Mage
+Number of games:258
+SL winrate:0.5032
+Stderr Winrate:0.0441
+
+Hero Deck:Big Priest
+Opponent Deck:Control Mage
+Number of games:258
+SL winrate:0.5032
+Stderr Winrate:0.0441
+
+Hero Deck:Big Priest
+Opponent Deck:Exodia Mage
+Number of games:147
+SL winrate:0.2847
+Stderr Winrate:0.0504
+
+Hero Deck:Big Priest
+Opponent Deck:Secret Mage
+Number of games:304
+SL winrate:0.3899
+Stderr Winrate:0.0394
+
+Hero Deck:Big Priest
+Opponent Deck:Handbuff Paladin
+Number of games:134
+SL winrate:0.5243
+Stderr Winrate:0.0615
+
+Hero Deck:Big Priest
+Opponent Deck:Murloc Paladin
+Number of games:432
+SL winrate:0.4885
+Stderr Winrate:0.0340
+
+Hero Deck:Big Priest
+Opponent Deck:Big Priest
+Number of games:380
+SL winrate:0.5000
+Stderr Winrate:0.0363
+
+Hero Deck:Big Priest
+Opponent Deck:Dragon Priest
+Number of games:175
+SL winrate:0.5105
+Stderr Winrate:0.0533
+
+Hero Deck:Big Priest
+Opponent Deck:Razakus Priest
+Number of games:798
+SL winrate:0.5546
+Stderr Winrate:0.0248
+
+Hero Deck:Big Priest
+Opponent Deck:Miracle Rogue
+Number of games:126
+SL winrate:0.5482
+Stderr Winrate:0.0627
+
+Hero Deck:Big Priest
+Opponent Deck:Tempo Rogue
+Number of games:1,687
+SL winrate:0.4713
+Stderr Winrate:0.0172
+
+Hero Deck:Big Priest
+Opponent Deck:Token Shaman
+Number of games:534
+SL winrate:0.5549
+Stderr Winrate:0.0304
+
+Hero Deck:Big Priest
+Opponent Deck:Control Warlock
+Number of games:361
+SL winrate:0.5908
+Stderr Winrate:0.0366
+
+Hero Deck:Big Priest
+Opponent Deck:Zoo Warlock
+Number of games:1,114
+SL winrate:0.5670
+Stderr Winrate:0.0209
+
+Hero Deck:Big Priest
+Opponent Deck:Pirate Warrior
+Number of games:150
+SL winrate:0.4649
+Stderr Winrate:0.0574
+
+Hero Deck:Big Priest
+Opponent Deck:Pirate Warrior
+Number of games:150
+SL winrate:0.4649
+Stderr Winrate:0.0574
+
+Hero Deck:Dragon Priest
+Opponent Deck:Aggro-Token Druid
+Number of games:288
+SL winrate:0.4352
+Stderr Winrate:0.0408
+
+Hero Deck:Dragon Priest
+Opponent Deck:Big Druid
+Number of games:223
+SL winrate:0.5325
+Stderr Winrate:0.0471
+
+Hero Deck:Dragon Priest
+Opponent Deck:Jade Druid
+Number of games:482
+SL winrate:0.4996
+Stderr Winrate:0.0321
+
+Hero Deck:Dragon Priest
+Opponent Deck:Midrange Hunter
+Number of games:369
+SL winrate:0.4686
+Stderr Winrate:0.0364
+
+Hero Deck:Dragon Priest
+Opponent Deck:Control Mage
+Number of games:178
+SL winrate:0.4977
+Stderr Winrate:0.0532
+
+Hero Deck:Dragon Priest
+Opponent Deck:Control Mage
+Number of games:178
+SL winrate:0.4977
+Stderr Winrate:0.0532
+
+Hero Deck:Dragon Priest
+Opponent Deck:Secret Mage
+Number of games:212
+SL winrate:0.4012
+Stderr Winrate:0.0478
+
+Hero Deck:Dragon Priest
+Opponent Deck:Murloc Paladin
+Number of games:224
+SL winrate:0.3258
+Stderr Winrate:0.0440
+
+Hero Deck:Dragon Priest
+Opponent Deck:Big Priest
+Number of games:175
+SL winrate:0.4895
+Stderr Winrate:0.0533
+
+Hero Deck:Dragon Priest
+Opponent Deck:Dragon Priest
+Number of games:166
+SL winrate:0.5000
+Stderr Winrate:0.0550
+
+Hero Deck:Dragon Priest
+Opponent Deck:Razakus Priest
+Number of games:527
+SL winrate:0.5858
+Stderr Winrate:0.0302
+
+Hero Deck:Dragon Priest
+Opponent Deck:Tempo Rogue
+Number of games:980
+SL winrate:0.4018
+Stderr Winrate:0.0221
+
+Hero Deck:Dragon Priest
+Opponent Deck:Token Shaman
+Number of games:360
+SL winrate:0.4274
+Stderr Winrate:0.0367
+
+Hero Deck:Dragon Priest
+Opponent Deck:Control Warlock
+Number of games:262
+SL winrate:0.5085
+Stderr Winrate:0.0438
+
+Hero Deck:Dragon Priest
+Opponent Deck:Zoo Warlock
+Number of games:574
+SL winrate:0.4267
+Stderr Winrate:0.0291
+
+Hero Deck:Razakus Priest
+Opponent Deck:Aggro-Token Druid
+Number of games:1,575
+SL winrate:0.5306
+Stderr Winrate:0.0177
+
+Hero Deck:Razakus Priest
+Opponent Deck:Big Druid
+Number of games:1,197
+SL winrate:0.3670
+Stderr Winrate:0.0196
+
+Hero Deck:Razakus Priest
+Opponent Deck:Jade Druid
+Number of games:2,383
+SL winrate:0.4359
+Stderr Winrate:0.0143
+
+Hero Deck:Razakus Priest
+Opponent Deck:Midrange Hunter
+Number of games:1,510
+SL winrate:0.4826
+Stderr Winrate:0.0181
+
+Hero Deck:Razakus Priest
+Opponent Deck:Control Mage
+Number of games:844
+SL winrate:0.5242
+Stderr Winrate:0.0241
+
+Hero Deck:Razakus Priest
+Opponent Deck:Control Mage
+Number of games:844
+SL winrate:0.5242
+Stderr Winrate:0.0241
+
+Hero Deck:Razakus Priest
+Opponent Deck:Exodia Mage
+Number of games:512
+SL winrate:0.4361
+Stderr Winrate:0.0309
+
+Hero Deck:Razakus Priest
+Opponent Deck:Secret Mage
+Number of games:961
+SL winrate:0.4864
+Stderr Winrate:0.0226
+
+Hero Deck:Razakus Priest
+Opponent Deck:Control Paladin
+Number of games:227
+SL winrate:0.6052
+Stderr Winrate:0.0459
+
+Hero Deck:Razakus Priest
+Opponent Deck:Handbuff Paladin
+Number of games:377
+SL winrate:0.5502
+Stderr Winrate:0.0362
+
+Hero Deck:Razakus Priest
+Opponent Deck:Murloc Paladin
+Number of games:1,313
+SL winrate:0.4500
+Stderr Winrate:0.0194
+
+Hero Deck:Razakus Priest
+Opponent Deck:Big Priest
+Number of games:798
+SL winrate:0.4454
+Stderr Winrate:0.0248
+
+Hero Deck:Razakus Priest
+Opponent Deck:Dragon Priest
+Number of games:527
+SL winrate:0.4142
+Stderr Winrate:0.0302
+
+Hero Deck:Razakus Priest
+Opponent Deck:Razakus Priest
+Number of games:2,984
+SL winrate:0.5000
+Stderr Winrate:0.0129
+
+Hero Deck:Razakus Priest
+Opponent Deck:Miracle Rogue
+Number of games:383
+SL winrate:0.5746
+Stderr Winrate:0.0355
+
+Hero Deck:Razakus Priest
+Opponent Deck:Tempo Rogue
+Number of games:4,730
+SL winrate:0.4846
+Stderr Winrate:0.0102
+
+Hero Deck:Razakus Priest
+Opponent Deck:Token Shaman
+Number of games:1,529
+SL winrate:0.5394
+Stderr Winrate:0.0179
+
+Hero Deck:Razakus Priest
+Opponent Deck:Control Warlock
+Number of games:1,140
+SL winrate:0.5590
+Stderr Winrate:0.0208
+
+Hero Deck:Razakus Priest
+Opponent Deck:Zoo Warlock
+Number of games:2,981
+SL winrate:0.4836
+Stderr Winrate:0.0128
+
+Hero Deck:Razakus Priest
+Opponent Deck:Control Warrior
+Number of games:246
+SL winrate:0.5559
+Stderr Winrate:0.0449
+
+Hero Deck:Razakus Priest
+Opponent Deck:Pirate Warrior
+Number of games:440
+SL winrate:0.4688
+Stderr Winrate:0.0334
+
+Hero Deck:Razakus Priest
+Opponent Deck:Pirate Warrior
+Number of games:440
+SL winrate:0.4688
+Stderr Winrate:0.0334
+
+Hero Deck:Razakus Priest
+Opponent Deck:Taunt Warrior
+Number of games:166
+SL winrate:0.5511
+Stderr Winrate:0.0549
+
+Hero Deck:Silence Priest
+Opponent Deck:Jade Druid
+Number of games:243
+SL winrate:0.6531
+Stderr Winrate:0.0435
+
+Hero Deck:Silence Priest
+Opponent Deck:Tempo Rogue
+Number of games:406
+SL winrate:0.4246
+Stderr Winrate:0.0346
+
+Hero Deck:Silence Priest
+Opponent Deck:Zoo Warlock
+Number of games:232
+SL winrate:0.5322
+Stderr Winrate:0.0461
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Aggro-Token Druid
+Number of games:235
+SL winrate:0.4136
+Stderr Winrate:0.0453
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Big Druid
+Number of games:172
+SL winrate:0.4721
+Stderr Winrate:0.0540
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Jade Druid
+Number of games:308
+SL winrate:0.4413
+Stderr Winrate:0.0394
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Midrange Hunter
+Number of games:224
+SL winrate:0.4907
+Stderr Winrate:0.0475
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Control Mage
+Number of games:103
+SL winrate:0.3420
+Stderr Winrate:0.0664
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Control Mage
+Number of games:103
+SL winrate:0.3420
+Stderr Winrate:0.0664
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Secret Mage
+Number of games:150
+SL winrate:0.4096
+Stderr Winrate:0.0568
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Murloc Paladin
+Number of games:158
+SL winrate:0.4384
+Stderr Winrate:0.0560
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Big Priest
+Number of games:126
+SL winrate:0.4518
+Stderr Winrate:0.0627
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Razakus Priest
+Number of games:383
+SL winrate:0.4254
+Stderr Winrate:0.0355
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Miracle Rogue
+Number of games:58
+SL winrate:0.5000
+Stderr Winrate:0.0874
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Tempo Rogue
+Number of games:557
+SL winrate:0.3453
+Stderr Winrate:0.0284
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Token Shaman
+Number of games:201
+SL winrate:0.4048
+Stderr Winrate:0.0484
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Control Warlock
+Number of games:151
+SL winrate:0.5436
+Stderr Winrate:0.0569
+
+Hero Deck:Miracle Rogue
+Opponent Deck:Zoo Warlock
+Number of games:381
+SL winrate:0.3632
+Stderr Winrate:0.0345
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Aggro-Token Druid
+Number of games:2,658
+SL winrate:0.4919
+Stderr Winrate:0.0137
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Big Druid
+Number of games:1,883
+SL winrate:0.5169
+Stderr Winrate:0.0162
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Jade Druid
+Number of games:4,493
+SL winrate:0.5332
+Stderr Winrate:0.0105
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Midrange Hunter
+Number of games:2,494
+SL winrate:0.5931
+Stderr Winrate:0.0138
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Control Mage
+Number of games:1,641
+SL winrate:0.5219
+Stderr Winrate:0.0173
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Control Mage
+Number of games:1,641
+SL winrate:0.5219
+Stderr Winrate:0.0173
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Exodia Mage
+Number of games:781
+SL winrate:0.6884
+Stderr Winrate:0.0235
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Secret Mage
+Number of games:1,436
+SL winrate:0.5553
+Stderr Winrate:0.0184
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Control Paladin
+Number of games:433
+SL winrate:0.6443
+Stderr Winrate:0.0323
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Handbuff Paladin
+Number of games:609
+SL winrate:0.5819
+Stderr Winrate:0.0282
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Murloc Paladin
+Number of games:2,012
+SL winrate:0.5740
+Stderr Winrate:0.0155
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Big Priest
+Number of games:1,687
+SL winrate:0.5287
+Stderr Winrate:0.0172
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Dragon Priest
+Number of games:980
+SL winrate:0.5982
+Stderr Winrate:0.0221
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Razakus Priest
+Number of games:4,730
+SL winrate:0.5154
+Stderr Winrate:0.0102
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Miracle Rogue
+Number of games:557
+SL winrate:0.6547
+Stderr Winrate:0.0284
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Tempo Rogue
+Number of games:7,806
+SL winrate:0.5000
+Stderr Winrate:0.0080
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Token Shaman
+Number of games:2,588
+SL winrate:0.5345
+Stderr Winrate:0.0137
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Control Warlock
+Number of games:1,870
+SL winrate:0.5518
+Stderr Winrate:0.0163
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Zoo Warlock
+Number of games:5,245
+SL winrate:0.5205
+Stderr Winrate:0.0097
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Control Warrior
+Number of games:387
+SL winrate:0.5978
+Stderr Winrate:0.0351
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Pirate Warrior
+Number of games:651
+SL winrate:0.5362
+Stderr Winrate:0.0274
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Pirate Warrior
+Number of games:651
+SL winrate:0.5362
+Stderr Winrate:0.0274
+
+Hero Deck:Tempo Rogue
+Opponent Deck:Taunt Warrior
+Number of games:270
+SL winrate:0.5199
+Stderr Winrate:0.0430
+
+Hero Deck:Token Shaman
+Opponent Deck:Aggro-Token Druid
+Number of games:761
+SL winrate:0.5053
+Stderr Winrate:0.0255
+
+Hero Deck:Token Shaman
+Opponent Deck:Big Druid
+Number of games:579
+SL winrate:0.4332
+Stderr Winrate:0.0289
+
+Hero Deck:Token Shaman
+Opponent Deck:Jade Druid
+Number of games:1,451
+SL winrate:0.4903
+Stderr Winrate:0.0185
+
+Hero Deck:Token Shaman
+Opponent Deck:Midrange Hunter
+Number of games:1,032
+SL winrate:0.6013
+Stderr Winrate:0.0214
+
+Hero Deck:Token Shaman
+Opponent Deck:Control Mage
+Number of games:506
+SL winrate:0.4791
+Stderr Winrate:0.0313
+
+Hero Deck:Token Shaman
+Opponent Deck:Control Mage
+Number of games:506
+SL winrate:0.4791
+Stderr Winrate:0.0313
+
+Hero Deck:Token Shaman
+Opponent Deck:Exodia Mage
+Number of games:268
+SL winrate:0.5451
+Stderr Winrate:0.0428
+
+Hero Deck:Token Shaman
+Opponent Deck:Secret Mage
+Number of games:625
+SL winrate:0.5702
+Stderr Winrate:0.0275
+
+Hero Deck:Token Shaman
+Opponent Deck:Control Paladin
+Number of games:181
+SL winrate:0.5716
+Stderr Winrate:0.0513
+
+Hero Deck:Token Shaman
+Opponent Deck:Handbuff Paladin
+Number of games:273
+SL winrate:0.5369
+Stderr Winrate:0.0422
+
+Hero Deck:Token Shaman
+Opponent Deck:Murloc Paladin
+Number of games:799
+SL winrate:0.5335
+Stderr Winrate:0.0249
+
+Hero Deck:Token Shaman
+Opponent Deck:Big Priest
+Number of games:534
+SL winrate:0.4451
+Stderr Winrate:0.0304
+
+Hero Deck:Token Shaman
+Opponent Deck:Dragon Priest
+Number of games:360
+SL winrate:0.5726
+Stderr Winrate:0.0367
+
+Hero Deck:Token Shaman
+Opponent Deck:Razakus Priest
+Number of games:1,529
+SL winrate:0.4606
+Stderr Winrate:0.0179
+
+Hero Deck:Token Shaman
+Opponent Deck:Miracle Rogue
+Number of games:201
+SL winrate:0.5952
+Stderr Winrate:0.0484
+
+Hero Deck:Token Shaman
+Opponent Deck:Tempo Rogue
+Number of games:2,588
+SL winrate:0.4655
+Stderr Winrate:0.0137
+
+Hero Deck:Token Shaman
+Opponent Deck:Token Shaman
+Number of games:1,004
+SL winrate:0.5000
+Stderr Winrate:0.0220
+
+Hero Deck:Token Shaman
+Opponent Deck:Control Warlock
+Number of games:803
+SL winrate:0.3763
+Stderr Winrate:0.0239
+
+Hero Deck:Token Shaman
+Opponent Deck:Zoo Warlock
+Number of games:1,748
+SL winrate:0.4261
+Stderr Winrate:0.0166
+
+Hero Deck:Token Shaman
+Opponent Deck:Control Warrior
+Number of games:152
+SL winrate:0.5823
+Stderr Winrate:0.0559
+
+Hero Deck:Token Shaman
+Opponent Deck:Pirate Warrior
+Number of games:268
+SL winrate:0.5463
+Stderr Winrate:0.0418
+
+Hero Deck:Token Shaman
+Opponent Deck:Pirate Warrior
+Number of games:268
+SL winrate:0.5463
+Stderr Winrate:0.0418
+
+Hero Deck:Token Shaman
+Opponent Deck:Taunt Warrior
+Number of games:113
+SL winrate:0.4979
+Stderr Winrate:0.0668
+
+Hero Deck:Control Warlock
+Opponent Deck:Aggro-Token Druid
+Number of games:541
+SL winrate:0.5719
+Stderr Winrate:0.0301
+
+Hero Deck:Control Warlock
+Opponent Deck:Big Druid
+Number of games:473
+SL winrate:0.2847
+Stderr Winrate:0.0294
+
+Hero Deck:Control Warlock
+Opponent Deck:Jade Druid
+Number of games:1,015
+SL winrate:0.3852
+Stderr Winrate:0.0214
+
+Hero Deck:Control Warlock
+Opponent Deck:Midrange Hunter
+Number of games:809
+SL winrate:0.4275
+Stderr Winrate:0.0245
+
+Hero Deck:Control Warlock
+Opponent Deck:Control Mage
+Number of games:363
+SL winrate:0.4307
+Stderr Winrate:0.0362
+
+Hero Deck:Control Warlock
+Opponent Deck:Control Mage
+Number of games:363
+SL winrate:0.4307
+Stderr Winrate:0.0362
+
+Hero Deck:Control Warlock
+Opponent Deck:Exodia Mage
+Number of games:196
+SL winrate:0.4194
+Stderr Winrate:0.0499
+
+Hero Deck:Control Warlock
+Opponent Deck:Secret Mage
+Number of games:428
+SL winrate:0.3490
+Stderr Winrate:0.0323
+
+Hero Deck:Control Warlock
+Opponent Deck:Control Paladin
+Number of games:128
+SL winrate:0.4658
+Stderr Winrate:0.0628
+
+Hero Deck:Control Warlock
+Opponent Deck:Handbuff Paladin
+Number of games:202
+SL winrate:0.4325
+Stderr Winrate:0.0487
+
+Hero Deck:Control Warlock
+Opponent Deck:Murloc Paladin
+Number of games:526
+SL winrate:0.5609
+Stderr Winrate:0.0302
+
+Hero Deck:Control Warlock
+Opponent Deck:Big Priest
+Number of games:361
+SL winrate:0.4092
+Stderr Winrate:0.0366
+
+Hero Deck:Control Warlock
+Opponent Deck:Dragon Priest
+Number of games:262
+SL winrate:0.4915
+Stderr Winrate:0.0438
+
+Hero Deck:Control Warlock
+Opponent Deck:Razakus Priest
+Number of games:1,140
+SL winrate:0.4410
+Stderr Winrate:0.0208
+
+Hero Deck:Control Warlock
+Opponent Deck:Miracle Rogue
+Number of games:151
+SL winrate:0.4564
+Stderr Winrate:0.0569
+
+Hero Deck:Control Warlock
+Opponent Deck:Tempo Rogue
+Number of games:1,870
+SL winrate:0.4482
+Stderr Winrate:0.0163
+
+Hero Deck:Control Warlock
+Opponent Deck:Token Shaman
+Number of games:803
+SL winrate:0.6237
+Stderr Winrate:0.0239
+
+Hero Deck:Control Warlock
+Opponent Deck:Control Warlock
+Number of games:576
+SL winrate:0.5000
+Stderr Winrate:0.0294
+
+Hero Deck:Control Warlock
+Opponent Deck:Zoo Warlock
+Number of games:1,300
+SL winrate:0.4862
+Stderr Winrate:0.0196
+
+Hero Deck:Control Warlock
+Opponent Deck:Pirate Warrior
+Number of games:194
+SL winrate:0.3965
+Stderr Winrate:0.0498
+
+Hero Deck:Control Warlock
+Opponent Deck:Pirate Warrior
+Number of games:194
+SL winrate:0.3965
+Stderr Winrate:0.0498
+
+Hero Deck:Control Warlock
+Opponent Deck:Taunt Warrior
+Number of games:102
+SL winrate:0.4915
+Stderr Winrate:0.0690
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Aggro-Token Druid
+Number of games:1,615
+SL winrate:0.4852
+Stderr Winrate:0.0176
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Big Druid
+Number of games:1,211
+SL winrate:0.4713
+Stderr Winrate:0.0202
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Jade Druid
+Number of games:2,770
+SL winrate:0.5303
+Stderr Winrate:0.0134
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Midrange Hunter
+Number of games:1,709
+SL winrate:0.5764
+Stderr Winrate:0.0168
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Control Mage
+Number of games:1,017
+SL winrate:0.5955
+Stderr Winrate:0.0216
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Control Mage
+Number of games:1,017
+SL winrate:0.5955
+Stderr Winrate:0.0216
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Exodia Mage
+Number of games:478
+SL winrate:0.6132
+Stderr Winrate:0.0316
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Secret Mage
+Number of games:870
+SL winrate:0.6267
+Stderr Winrate:0.0231
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Control Paladin
+Number of games:252
+SL winrate:0.5380
+Stderr Winrate:0.0443
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Handbuff Paladin
+Number of games:414
+SL winrate:0.5877
+Stderr Winrate:0.0340
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Murloc Paladin
+Number of games:1,346
+SL winrate:0.5439
+Stderr Winrate:0.0190
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Big Priest
+Number of games:1,114
+SL winrate:0.4330
+Stderr Winrate:0.0209
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Dragon Priest
+Number of games:574
+SL winrate:0.5733
+Stderr Winrate:0.0291
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Razakus Priest
+Number of games:2,981
+SL winrate:0.5164
+Stderr Winrate:0.0128
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Miracle Rogue
+Number of games:381
+SL winrate:0.6368
+Stderr Winrate:0.0345
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Tempo Rogue
+Number of games:5,245
+SL winrate:0.4795
+Stderr Winrate:0.0097
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Token Shaman
+Number of games:1,748
+SL winrate:0.5739
+Stderr Winrate:0.0166
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Control Warlock
+Number of games:1,300
+SL winrate:0.5138
+Stderr Winrate:0.0196
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Zoo Warlock
+Number of games:3,486
+SL winrate:0.5000
+Stderr Winrate:0.0119
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Control Warrior
+Number of games:222
+SL winrate:0.6941
+Stderr Winrate:0.0438
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Pirate Warrior
+Number of games:481
+SL winrate:0.5510
+Stderr Winrate:0.0320
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Pirate Warrior
+Number of games:481
+SL winrate:0.5510
+Stderr Winrate:0.0320
+
+Hero Deck:Zoo Warlock
+Opponent Deck:Taunt Warrior
+Number of games:178
+SL winrate:0.5834
+Stderr Winrate:0.0524
+
+Hero Deck:Control Warrior
+Opponent Deck:Aggro-Token Druid
+Number of games:105
+SL winrate:0.4972
+Stderr Winrate:0.0688
+
+Hero Deck:Control Warrior
+Opponent Deck:Jade Druid
+Number of games:190
+SL winrate:0.3317
+Stderr Winrate:0.0480
+
+Hero Deck:Control Warrior
+Opponent Deck:Midrange Hunter
+Number of games:172
+SL winrate:0.3156
+Stderr Winrate:0.0503
+
+Hero Deck:Control Warrior
+Opponent Deck:Secret Mage
+Number of games:105
+SL winrate:0.1799
+Stderr Winrate:0.0518
+
+Hero Deck:Control Warrior
+Opponent Deck:Razakus Priest
+Number of games:246
+SL winrate:0.4441
+Stderr Winrate:0.0449
+
+Hero Deck:Control Warrior
+Opponent Deck:Tempo Rogue
+Number of games:387
+SL winrate:0.4022
+Stderr Winrate:0.0351
+
+Hero Deck:Control Warrior
+Opponent Deck:Token Shaman
+Number of games:152
+SL winrate:0.4177
+Stderr Winrate:0.0559
+
+Hero Deck:Control Warrior
+Opponent Deck:Zoo Warlock
+Number of games:222
+SL winrate:0.3059
+Stderr Winrate:0.0438
+
+Hero Deck:Control Warrior
+Opponent Deck:Control Warrior
+Number of games:18
+SL winrate:0.5000
+Stderr Winrate:0.1470
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Aggro-Token Druid
+Number of games:231
+SL winrate:0.3474
+Stderr Winrate:0.0442
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Big Druid
+Number of games:158
+SL winrate:0.5419
+Stderr Winrate:0.0563
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Jade Druid
+Number of games:400
+SL winrate:0.5717
+Stderr Winrate:0.0348
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Midrange Hunter
+Number of games:308
+SL winrate:0.4586
+Stderr Winrate:0.0398
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Control Mage
+Number of games:136
+SL winrate:0.5289
+Stderr Winrate:0.0608
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Control Mage
+Number of games:136
+SL winrate:0.5289
+Stderr Winrate:0.0608
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Secret Mage
+Number of games:180
+SL winrate:0.5207
+Stderr Winrate:0.0519
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Murloc Paladin
+Number of games:181
+SL winrate:0.4545
+Stderr Winrate:0.0527
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Big Priest
+Number of games:150
+SL winrate:0.5351
+Stderr Winrate:0.0574
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Razakus Priest
+Number of games:440
+SL winrate:0.5312
+Stderr Winrate:0.0334
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Tempo Rogue
+Number of games:651
+SL winrate:0.4638
+Stderr Winrate:0.0274
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Token Shaman
+Number of games:268
+SL winrate:0.4537
+Stderr Winrate:0.0418
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Control Warlock
+Number of games:194
+SL winrate:0.6035
+Stderr Winrate:0.0498
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Zoo Warlock
+Number of games:481
+SL winrate:0.4490
+Stderr Winrate:0.0320
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Pirate Warrior
+Number of games:74
+SL winrate:0.5000
+Stderr Winrate:0.0833
+
+Hero Deck:Pirate Warrior
+Opponent Deck:Pirate Warrior
+Number of games:74
+SL winrate:0.5000
+Stderr Winrate:0.0833
+
+Hero Deck:Taunt Warrior
+Opponent Deck:Jade Druid
+Number of games:160
+SL winrate:0.3125
+Stderr Winrate:0.0520
+
+Hero Deck:Taunt Warrior
+Opponent Deck:Midrange Hunter
+Number of games:112
+SL winrate:0.4531
+Stderr Winrate:0.0663
+
+Hero Deck:Taunt Warrior
+Opponent Deck:Razakus Priest
+Number of games:166
+SL winrate:0.4489
+Stderr Winrate:0.0549
+
+Hero Deck:Taunt Warrior
+Opponent Deck:Tempo Rogue
+Number of games:270
+SL winrate:0.4801
+Stderr Winrate:0.0430
+
+Hero Deck:Taunt Warrior
+Opponent Deck:Token Shaman
+Number of games:113
+SL winrate:0.5021
+Stderr Winrate:0.0668
+
+Hero Deck:Taunt Warrior
+Opponent Deck:Control Warlock
+Number of games:102
+SL winrate:0.5085
+Stderr Winrate:0.0690
+
+Hero Deck:Taunt Warrior
+Opponent Deck:Zoo Warlock
+Number of games:178
+SL winrate:0.4166
+Stderr Winrate:0.0524
+
+Hero Deck:Taunt Warrior
+Opponent Deck:Taunt Warrior
+Number of games:8
+SL winrate:0.5000
+Stderr Winrate:0.2887
+

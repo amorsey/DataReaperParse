@@ -3385,3 +3385,315 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
 1510551590868	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
 1510551591648	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556558814	geckodriver	INFO	geckodriver 0.19.1
+1510556558820	geckodriver	INFO	Listening on 127.0.0.1:65166
+1510556559018	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.gtBGzcpkQW3e"
+1510556560585	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510556561058	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:02:42.459 plugin-container[4093:266112] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:02:42.460 plugin-container[4093:266112] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510556562974	Marionette	INFO	Listening on port 65176
+1510556563045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510556563094	Marionette	DEBUG	Register listener.js for window 2147483649
+1510556563119	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510556563545	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510556563546	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510556565279	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556566108	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1510556588540	geckodriver	INFO	geckodriver 0.19.1
+1510556588547	geckodriver	INFO	Listening on 127.0.0.1:65341
+1510556588811	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.UPDScfkpxtVE"
+1510556590354	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510556590859	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:03:12.333 plugin-container[4103:266900] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:03:12.334 plugin-container[4103:266900] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510556592919	Marionette	INFO	Listening on port 65351
+1510556592954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510556593027	Marionette	DEBUG	Register listener.js for window 2147483649
+1510556593089	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510556593538	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510556593538	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510556594939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556595677	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556640623	geckodriver	INFO	geckodriver 0.19.1
+1510556640630	geckodriver	INFO	Listening on 127.0.0.1:65520
+1510556640990	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.RDeBezApCAy4"
+1510556642568	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510556643037	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:04:04.344 plugin-container[4109:267662] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:04:04.345 plugin-container[4109:267662] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510556644969	Marionette	INFO	Listening on port 65530
+1510556645026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510556645070	Marionette	DEBUG	Register listener.js for window 2147483649
+1510556645096	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510556645501	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510556645502	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510556647107	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556647844	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556684499	geckodriver	INFO	geckodriver 0.19.1
+1510556684504	geckodriver	INFO	Listening on 127.0.0.1:49309
+1510556685712	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.UZjJFKZ8L1HR"
+1510556686168	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510556686625	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:04:47.940 plugin-container[4117:268389] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:04:47.941 plugin-container[4117:268389] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510556688379	Marionette	INFO	Listening on port 49322
+1510556688428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510556688484	Marionette	DEBUG	Register listener.js for window 2147483649
+1510556688516	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510556689242	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510556689242	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510556690837	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556692079	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[Child 4117] WARNING: pipe error: Broken pipe: file /home/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1510556716892	geckodriver	INFO	geckodriver 0.19.1
+1510556716897	geckodriver	INFO	Listening on 127.0.0.1:49444
+1510556718048	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.OIEXS2yTsHYW"
+1510556718476	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510556718907	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:05:20.296 plugin-container[4123:269191] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:05:20.297 plugin-container[4123:269191] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510556720777	Marionette	INFO	Listening on port 49457
+1510556720838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510556720883	Marionette	DEBUG	Register listener.js for window 2147483649
+1510556720907	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510556721311	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510556721312	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510556722855	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556725036	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556792060	geckodriver	INFO	geckodriver 0.19.1
+1510556792066	geckodriver	INFO	Listening on 127.0.0.1:49587
+1510556793211	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.YZIdIqpaawJv"
+1510556793651	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510556794087	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:06:35.419 plugin-container[4135:270020] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:06:35.420 plugin-container[4135:270020] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510556795906	Marionette	INFO	Listening on port 49600
+1510556796002	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510556796053	Marionette	DEBUG	Register listener.js for window 2147483649
+1510556796074	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510556796464	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510556796464	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510556798096	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556799477	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510556853522	geckodriver	INFO	geckodriver 0.19.1
+1510556853530	geckodriver	INFO	Listening on 127.0.0.1:49729
+1510556854793	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.8MuCoT4OSA8Y"
+1510556855855	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510556856287	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:07:37.482 plugin-container[4142:270466] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:07:37.483 plugin-container[4142:270466] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510556858063	Marionette	INFO	Listening on port 49742
+1510556858102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510556858161	Marionette	DEBUG	Register listener.js for window 2147483649
+1510556858199	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510556858662	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510556858662	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510556860164	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556861324	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556884075	geckodriver	INFO	geckodriver 0.19.1
+1510556884081	geckodriver	INFO	Listening on 127.0.0.1:49888
+1510556885408	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.pPLURFSLQGmU"
+1510556886703	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510556887274	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:08:08.636 plugin-container[4150:271202] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:08:08.637 plugin-container[4150:271202] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510556889329	Marionette	INFO	Listening on port 49901
+1510556889351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510556889404	Marionette	DEBUG	Register listener.js for window 2147483649
+1510556889437	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510556889827	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510556889828	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510556891362	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556893148	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556952732	geckodriver	INFO	geckodriver 0.19.1
+1510556952738	geckodriver	INFO	Listening on 127.0.0.1:50080
+1510556953999	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.3XXIWSRd8xGV"
+1510556955572	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510556956113	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:09:17.435 plugin-container[4156:271958] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:09:17.436 plugin-container[4156:271958] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510556958084	Marionette	INFO	Listening on port 50093
+1510556958137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510556958181	Marionette	DEBUG	Register listener.js for window 2147483649
+1510556958211	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510556958693	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510556958693	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510556960071	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510556960890	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510557277053	geckodriver	INFO	geckodriver 0.19.1
+1510557277060	geckodriver	INFO	Listening on 127.0.0.1:50703
+1510557278267	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.kMB72yUWJMO3"
+1510557279126	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510557279586	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:14:40.905 plugin-container[4168:273491] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:14:40.907 plugin-container[4168:273491] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510557281442	Marionette	INFO	Listening on port 50716
+1510557281493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510557281542	Marionette	DEBUG	Register listener.js for window 2147483649
+1510557281562	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510557282363	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510557282363	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510557283764	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510557285948	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510557389506	geckodriver	INFO	geckodriver 0.19.1
+1510557389511	geckodriver	INFO	Listening on 127.0.0.1:50958
+1510557390691	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.dpLRoUEylibk"
+1510557391813	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510557392265	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:16:33.547 plugin-container[4179:274313] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:16:33.548 plugin-container[4179:274313] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510557394380	Marionette	INFO	Listening on port 50971
+1510557394444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510557394508	Marionette	DEBUG	Register listener.js for window 2147483649
+1510557394545	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510557395095	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510557395096	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510557397072	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510557397812	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510557785569	geckodriver	INFO	geckodriver 0.19.1
+1510557785576	geckodriver	INFO	Listening on 127.0.0.1:52432
+1510557785870	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.IAjxAkt2zWlD"
+1510557787628	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510557788255	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:23:10.057 plugin-container[4197:276188] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:23:10.058 plugin-container[4197:276188] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510557790944	Marionette	INFO	Listening on port 52442
+1510557790968	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510557791031	Marionette	DEBUG	Register listener.js for window 2147483649
+1510557791089	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510557791581	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510557791581	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510557793353	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510557794094	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510558225790	geckodriver	INFO	geckodriver 0.19.1
+1510558225825	geckodriver	INFO	Listening on 127.0.0.1:53956
+1510558227093	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.PrZ8D6tmt4bl"
+1510558229000	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510558229603	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:30:31.257 plugin-container[4219:278321] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:30:31.258 plugin-container[4219:278321] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510558231833	Marionette	INFO	Listening on port 53969
+1510558231907	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510558231957	Marionette	DEBUG	Register listener.js for window 2147483649
+1510558231979	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510558232377	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510558232378	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510558234301	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510558235252	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510559039276	geckodriver	INFO	geckodriver 0.19.1
+1510559039286	geckodriver	INFO	Listening on 127.0.0.1:54287
+1510559039532	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.OSJiPQQEg19d"
+1510559041410	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510559042009	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:44:04.742 plugin-container[4263:280770] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:44:04.743 plugin-container[4263:280770] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa603, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510559046019	Marionette	INFO	Listening on port 54297
+1510559046047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510559046101	Marionette	DEBUG	Register listener.js for window 2147483649
+1510559046124	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510559046545	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510559046545	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510559048043	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510559049142	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x42000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1510559049188	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510559063867	geckodriver	INFO	geckodriver 0.19.1
+1510559063874	geckodriver	INFO	Listening on 127.0.0.1:54530
+1510559064159	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.E8N2LuvwoV4w"
+1510559065923	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510559066404	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:44:27.924 plugin-container[4273:281131] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:44:27.925 plugin-container[4273:281131] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510559068452	Marionette	INFO	Listening on port 54540
+1510559068515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510559068566	Marionette	DEBUG	Register listener.js for window 2147483649
+1510559068587	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510559069051	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510559069051	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510559070716	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510559072938	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510559116695	geckodriver	INFO	geckodriver 0.19.1
+1510559116703	geckodriver	INFO	Listening on 127.0.0.1:54933
+1510559117027	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.llNDl0zQeGcy"
+1510559118911	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510559119507	Marionette	INFO	Enabled via --marionette
+2017-11-12 23:45:21.168 plugin-container[4281:281640] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-12 23:45:21.169 plugin-container[4281:281640] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510559121671	Marionette	INFO	Listening on port 54943
+1510559121710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510559121756	Marionette	DEBUG	Register listener.js for window 2147483649
+1510559121795	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510559122220	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510559122220	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510559123708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510559126445	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
