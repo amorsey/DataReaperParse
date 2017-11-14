@@ -2,17 +2,18 @@ from selenium import webdriver
 from time import sleep
 from bs4 import BeautifulSoup
 
-def copy_data(dictionary):
+def copy_data(deck_stats):
     try:
         # Find and extract HTML from popup window.
         html = browser.find_element_by_class_name("tab-ubertipTooltip")\
         .get_attribute('innerHTML')
         # Parse out lines with key infromation.
         soup = BeautifulSoup(html, "html.parser")
-        spanElements = soup.find_all('span')
+        text_elements = soup.find_all('span')
+        deck_stats[text_elements[2]] = {"Winrate":text_elements[5],
+                                        "SDWinrate":text_elements[7],
+                                        "Games":text_elements[3`]}
 
-
-        
     except:
         pass
 
@@ -28,13 +29,13 @@ def scrape_table():
     f = open('Data.txt', 'w')
     el = browser.find_element_by_class_name("tvScrollContainer")
     browser.execute_script("window.scrollTo(0, 160);")
-    classMatchup = {}
+    deck_stats = {}
     for j in range(22):
         for i in range(21):
             act = webdriver.ActionChains(browser)
             act.move_to_element_with_offset(el,2+23*i,2+j*31)
             act.perform()
-            copyData(classMatchup)
+            copyData(deck_stats)
     f.close()
     browser.close()
 
