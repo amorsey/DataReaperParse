@@ -10,10 +10,10 @@ def copy_data(deck_stats):
         # Parse out lines with key infromation.
         soup = BeautifulSoup(html, "html.parser")
         text_elements = soup.find_all('span')
-        deck_stats[text_elements[2]] = {"Winrate":text_elements[5],
-                                        "SDWinrate":text_elements[7],
-                                        "Games":text_elements[3`]}
-
+        deck_stats[text_elements[2]] = {text_elements[3]:{
+                                        "Games":text_elements[5]
+                                        "Winrate":text_elements[7],
+                                        "SDWinrate":text_elements[9],}}
     except:
         pass
 
