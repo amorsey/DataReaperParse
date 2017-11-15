@@ -36,7 +36,7 @@ def scrape_table():
     el = browser.find_element_by_class_name("tvScrollContainer")
     browser.execute_script("window.scrollTo(0, 160);")
     deck_stats = {}
-    for j in range(3):
+    for j in range(22):
         for i in range(21):
             # It is importnat to create a new ActionChains for every
             # operation otherwise each new iteration will perform ALL

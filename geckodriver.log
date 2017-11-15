@@ -4486,3 +4486,66 @@ JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_10400171027
 1510680926379	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 [Child 1258, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1510681829009	geckodriver	INFO	geckodriver 0.19.1
+1510681829020	geckodriver	INFO	Listening on 127.0.0.1:55826
+1510681829390	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.5n9lse6mh9S0"
+1510681830797	Marionette	INFO	Enabled via --marionette
+2017-11-14 09:50:32.988 plugin-container[1298:85228] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510681833661	Marionette	INFO	Listening on port 55830
+1510681834036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510681834125	Marionette	DEBUG	Register listener.js for window 2147483649
+1510681834282	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510681834477	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510681834477	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001710272027/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510681835600	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510681837658	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510705434861	geckodriver	INFO	geckodriver 0.19.1
+1510705434901	geckodriver	INFO	Listening on 127.0.0.1:58354
+1510705438580	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.q00tOF1hlneY"
+1510705441120	Marionette	INFO	Enabled via --marionette
+2017-11-14 16:24:04.739 plugin-container[2309:156179] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510705446560	Marionette	INFO	Listening on port 58361
+1510705447511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510705447609	Marionette	DEBUG	Register listener.js for window 2147483649
+1510705447814	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510705447983	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510705447984	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001711130106/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510705449095	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510705450432	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: resource://gre/modules/osfile/osfile_async_front.jsm, line 410: Error: OS.File has been shut down. Rejecting post to stat
+1510769563101	geckodriver	INFO	geckodriver 0.19.1
+1510769563115	geckodriver	INFO	Listening on 127.0.0.1:60005
+1510769564463	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.77VKw0wOQMOH"
+1510769569409	Marionette	INFO	Enabled via --marionette
+2017-11-15 10:12:53.320 plugin-container[3795:285876] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+1510769576466	Marionette	INFO	Listening on port 60010
+1510769578058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510769578174	Marionette	DEBUG	Register listener.js for window 2147483649
+1510769578258	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510769614195	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510769614319	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510769614319	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510769614321	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1510769625242	geckodriver	INFO	geckodriver 0.19.1
+1510769625247	geckodriver	INFO	Listening on 127.0.0.1:60059
+1510769625723	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/dm/m0lvbsfx1md2sdhvqjv2xtyc0000gn/T/rust_mozprofile.M8GY6vtaGTpH"
+1510769627964	Marionette	INFO	Enabled via --marionette
+2017-11-15 10:13:49.240 plugin-container[3815:286811] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1510769630156	Marionette	INFO	Listening on port 60063
+1510769630265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510769630340	Marionette	DEBUG	Register listener.js for window 2147483649
+1510769630648	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510769630924	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510769630925	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://publicstatic.tableausoftware.com/vizql/v_104001711130106/javascripts/vqlweb.bundle.js, line 21: unreachable code after return statement
+1510769632500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
+1510769634107	Marionette	DEBUG	Received DOM event "pageshow" for "https://public.tableau.com/views/DataReaper69-MatchupWinRates/Dashboard1?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:tabs=no&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0"
