@@ -5,9 +5,9 @@
     "Midrange Hunter":7.68,
     "Control Mage":3.37,
     "Exodia Mage":1.79,
-    "Secret Mage":2.56,
-    "Control Paladin":3.18,
-    "Handbuff Paladin":1.19,
+    "Secret Mage":3.17,
+    "Control Paladin":0.91,
+    "Handbuff Paladin":1.91,
     "Murloc Paladin":2.56,
     "Big Priest":3.18,
     "Dragon Priest":1.73,
@@ -15,9 +15,9 @@
     "Miracle Rogue":1.33,
     "Tempo Rogue":14.09,
     "Token Shaman":6.90,
-    "Control Warlock":1.33,
+    "Control Warlock":4.99,
     "Zoo Warlock":10.13,
-    "Control Warrior":1.56,
-    "Pirate Warrior":1.34,
-    "Taunt Warrior":0.87
+    "Control Warrior":0.85,
+    "Pirate Warrior":1.51,
+    "Taunt Warrior":0.76
 }

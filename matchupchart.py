@@ -75,19 +75,45 @@ def make_graph(deck_name):
 
 
 
-    plt.xticks(x_points, deck_names, rotation='vertical')
-    plt.bar(start_points, hights, widths, alpha=0.9, align='edge', color=colors, edgecolor = "black")
+    #plt.xticks(x_points, deck_names, rotation='vertical')
+    rects = plt.bar(start_points, hights, widths, alpha=0.9, align='edge', color=colors, edgecolor = "black")
     plt.title(deck_name)
     ax = plt.gca()
     plt.ylim([-0.3,0.3])
     ax.grid('false')
     plt.axhline(y = 0, color = 'grey', linewidth = .5, alpha = .7)
-    plt.tick_params(axis = 'x', which = 'major', labelsize = 8, tick1On='True')
+    #plt.tick_params(axis = 'x', which = 'major', labelsize = 8, tick1On='True'
+    count = 0
+    last_hight = 0
+    switch = True
+    for rect in rects:
+        height = rect.get_height()
+        width = rect.get_width()
+        if height < 0:
+            ax.text(rect.get_x() + rect.get_width()/2., 1.05*height,
+                deck_names[count]+"-",
+                ha='center', va='top',rotation='vertical',fontsize=8)
+        elif width < 2  and last_height >= height  and switch: 
+            ax.text(rect.get_x() + rect.get_width()/2., 0,
+                deck_names[count]+"-",
+                ha='center', va='top',rotation='vertical',fontsize=8)
+            switch = False
+        else:
+            ax.text(rect.get_x() + rect.get_width()/2., 1.05*height,
+                "-"+deck_names[count],
+                ha='center', va='bottom',rotation='vertical',fontsize=8)
+            switch = True
+            
+        count +=1
+        last_height = height
+        
     plt.tight_layout()
     plt.show()
+
 
 
 #print(find_max())
 while(True):
     a = input("Type Deck: ")
     make_graph(a)
+#make_graph("Big Druid")
