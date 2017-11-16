@@ -8,9 +8,17 @@ def find_max():
     with open('occurence.json', 'r') as f:
         occurences = json.load(f)
 
-    max = 0
-    for deck in matches:
-        
+    max_val = 0
+    classes = ""
+    for names in matches:
+      oppnt = matches[names]
+      for deck in oppnt:
+        value = (float(deck["Winrate"])-0.50)*occurences[deck["Opponent"]]
+        if value > max_val:
+            max_val = value
+            classes = names+deck["Opponent"]
+    print(max_val)
+    print(classes)
 
 
 def make_graph(deck_name):
@@ -56,7 +64,7 @@ def make_graph(deck_name):
             colors.append("#82c162")
         elif area > 0:
             colors.append("#a9da78")
-        elif area > -.5:
+        elif area > -0.5:
             colors.append("#fd8674")
         elif area > -1:
             colors.append("#ef654d")
@@ -79,5 +87,7 @@ def make_graph(deck_name):
     plt.show()
 
 
-
-make_graph("Big Druid")
+#print(find_max())
+while(True):
+    a = input("Type Deck: ")
+    make_graph(a)
