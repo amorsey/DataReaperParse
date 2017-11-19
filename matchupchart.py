@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import matplotlib.style as style
+import matplotlib.patches as mpatches
 import json
  
 def find_max():
@@ -73,47 +74,70 @@ def make_graph(deck_name):
         else:
             colors.append("#bd1100")
 
-
-
-    #plt.xticks(x_points, deck_names, rotation='vertical')
+    my_y_labels = ["20","30","40","50","60","70","80"]
+    y = [-0.3, -0.2, -0.1, 0, 0.1, 0.2, 0.3]
+    plt.yticks(y, my_y_labels)
     rects = plt.bar(start_points, hights, widths, alpha=0.9, align='edge', color=colors, edgecolor = "black")
-    plt.title(deck_name)
+    plt.title(deck_name+" Win/Loss Relevancy", fontsize=12)
     ax = plt.gca()
-    plt.ylim([-0.3,0.3])
+    ax.set_ylabel('Matchup Winrate [%]', fontsize=10)
+    ax.set_xlabel('Deck Prevalence [out of 100%]', fontsize=10)
+    plt.tick_params(axis='both', which='major', labelsize=12)
+
+    plt.ylim([-0.4,0.4])
+    plt.xlim([-1,100])
     ax.grid('false')
     plt.axhline(y = 0, color = 'grey', linewidth = .5, alpha = .7)
-    #plt.tick_params(axis = 'x', which = 'major', labelsize = 8, tick1On='True'
+    red_patch = mpatches.Patch(color='#4a8c1c', label='Very Good')
+    grn_patch = mpatches.Patch(color='#a9da78', label='Good')
+    prp_patch = mpatches.Patch(color='#bd1100', label='Very Bad')
+    blu_patch = mpatches.Patch(color='#fd8674', label='Bad')
+    plt.legend(bbox_to_anchor=(1.00, 0.1), ncol=2,handles=[grn_patch,red_patch,blu_patch,prp_patch],prop={'size': 7})
     count = 0
     last_hight = 0
     switch = True
     for rect in rects:
         height = rect.get_height()
         width = rect.get_width()
-        if height < 0:
+        if height > 0.25:
+            ax.text(rect.get_x() + rect.get_width()/2., 1.05*height,
+                deck_names[count],
+                ha='center', va='bottom',fontsize=7)
+            switch = True
+        elif height < 0:
             ax.text(rect.get_x() + rect.get_width()/2., 1.05*height,
                 deck_names[count]+"-",
-                ha='center', va='top',rotation='vertical',fontsize=8)
+                ha='center', va='top',rotation='vertical',fontsize=7)
         elif width < 2  and last_height >= height  and switch: 
             ax.text(rect.get_x() + rect.get_width()/2., 0,
                 deck_names[count]+"-",
-                ha='center', va='top',rotation='vertical',fontsize=8)
+                ha='center', va='top',rotation='vertical',fontsize=7)
             switch = False
         else:
             ax.text(rect.get_x() + rect.get_width()/2., 1.05*height,
                 "-"+deck_names[count],
-                ha='center', va='bottom',rotation='vertical',fontsize=8)
+                ha='center', va='bottom',rotation='vertical',fontsize=7)
             switch = True
             
         count +=1
         last_height = height
         
     plt.tight_layout()
-    plt.show()
+    plt.savefig(deck_name+".png")
+    plt.clf()
 
 
 
 #print(find_max())
-while(True):
-    a = input("Type Deck: ")
-    make_graph(a)
-#make_graph("Big Druid")
+with open('data.json', 'r') as f:
+    matches = json.load(f)
+for names in matches:
+    #print(names)
+    make_graph(names)
+
+
+
+
+
+
+
